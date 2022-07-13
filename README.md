@@ -7,25 +7,15 @@ Repositório notebook sobre os bairros mais caros de Cingapura
   <img src="https://img.freepik.com/free-photo/beautiful-luxury-outdoor-swimming-pool-hotel-resort_74190-7433.jpg?size=626&ext=jpg&ga=GA1.2.1594277342.1655935032"height=400px >
 </p>
 
-## Meu Projeto Muito Top
+## Projeto Airbnb Cingapura
 
 Análise resumida dos dados fornecidos do Airbnb sobre os bairros da cidade de Cingapura.
 
 **Links para me acharem:**
-* [Artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [Outro artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [LinkedIn](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Instagram](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Portfólio Completo](https://www.linkedin.com/in/rafael-n-duarte/)
+
+* [LinkedIn](www.linkedin.com/in/isaacfernandesmendes)
 
 
 
 
-## Outros Projetos Meus:
 
-Business
-* **[Image Classification using Convolutional Neural Networks](https://bit.ly/3cdckqJ)**
-
-* **[Sales Forecast With Prophet](https://bit.ly/2wHiD6l)**
-
-* **[RFM Customer Segmentation With K-Means](https://bit.ly/2RFTWi2)**
