@@ -11,6 +11,8 @@ Repositório notebook baseado nos dados do Airbnb sobre os bairros de Cingapura.
 
 Análise resumida dos dados fornecidos do Airbnb sobre os bairros da cidade de Cingapura.
 
+[Link para o projeto completo](https://medium.com/@rafaelnduarte)
+
 **Links para me acharem:**
 
 * [LinkedIn](https://www.linkedin.com/in/isaacfernandesmendes)
