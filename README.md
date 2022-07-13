@@ -13,7 +13,7 @@ Análise resumida dos dados fornecidos do Airbnb sobre os bairros da cidade de C
 
 **Links para me acharem:**
 
-* [LinkedIn](www.linkedin.com/in/isaacfernandesmendes)
+* [LinkedIn](https://www.linkedin.com/in/isaacfernandesmendes)
 
 
 
